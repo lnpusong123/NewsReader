@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">全民阅读</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="category_game">游戏</string>
+    <string name="category_app">应用</string>
+    <string name="recommend_toast">您选择的关键词是：</string>
+    <string name="load_more">加载中...</string>
+    <string name="load_error">加载失败,点击重试</string>
+    <string name="app_detail">应用详情</string>
+    <string name="app_detail_download">下载：</string>
+    <string name="app_detail_version">版本：</string>
+    <string name="app_detail_date">时间：</string>
+    <string name="app_detail_size">大小：</string>
+    <string name="app_detail_introduction">简介</string>
+    <string name="app_detail_author">作者：</string>
+    <string name="app_state_download">下载</string>
+    <string name="app_state_paused">暂停</string>
+    <string name="app_state_error">失败</string>
+    <string name="app_state_waiting">等待</string>
+    <string name="app_state_downloaded">安装</string>
+    <string name="bottom_favorites">收藏</string>
+    <string name="bottom_share">分享</string>
+    <string name="tv_home">首页</string>
+    <string name="tv_setting">设置</string>
+    <string name="tv_theme">主题</string>
+    <string name="tv_scans">安装包管理</string>
+    <string name="tv_feedback">反馈</string>
+    <string name="tv_updates">检查更新</string>
+    <string name="tv_about">关于</string>
+    <string name="tv_exit">退出</string>
+    <string name="tv_user_name">未知</string>
+    <string name="tv_user_email">unknown@gmail.com</string>
+    <string-array name="tab_names">
+        <item>推荐</item>
+        <item>社会</item>
+        <item>娱乐</item>
+        <item>军事</item>
+        <item>汽车</item>
+        <item>时尚</item>
+        <item>视频</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>健康</item>
+        <item>体育</item>
+        <item>房产</item>
+        <item>段子</item>
+        <item>趣味</item>
+        <item>国际</item>
+        <item>历史</item>
+        <item>游戏</item>
+        <item>减肥</item>
+    </string-array>
+    
+    <string-array name="scenario_id">
+        <item>0x00000101</item>
+        <item>0x00020101</item>
+        <item>0x00030101</item>
+        <item>0x00050101</item>
+        <item>0x00080101</item>
+        <item>0x000a0101</item>
+        <item>0x001c0101</item>
+        <item>0x00060101</item>
+        <item>0x00070101</item>
+        <item>0x000c0101</item>
+        <item>0x00040101</item>
+        <item>0x00090101</item>
+        <item>0x001b0101</item>
+        <item>0x001a0101</item>
+        <item>0x000f0101</item>
+        <item>0x00120101</item>
+        <item>0x00100101</item>
+        <item>0x00160101</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
