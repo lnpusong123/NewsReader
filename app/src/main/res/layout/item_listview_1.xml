@@ -2,7 +2,10 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="8dp">
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="13dp"
+    android:paddingBottom="13dp">
     <ImageView
         android:id="@+id/iv_icon1"
         android:layout_width="100dp"

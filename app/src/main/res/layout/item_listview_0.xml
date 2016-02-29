@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="8dp">
     <TextView
         android:id="@+id/tv_title"
         android:layout_width="match_parent"
@@ -13,7 +14,7 @@
         android:ellipsize="end"
         android:paddingLeft="5dp"
         android:paddingRight="5dp"
-        android:paddingTop="8dp"
+        android:paddingTop="3dp"
         android:paddingBottom="3dp"
         android:maxLines="2"
         />
@@ -22,7 +23,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="中国日报网"
-        android:padding="5dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:paddingRight="5dp"
         android:textSize="12sp"
         android:textColor="#666"/>
 </LinearLayout>
